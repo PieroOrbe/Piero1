@@ -1,5 +1,5 @@
 from guerrero import *
-
+#ACA ESTUVO EL OTRO PIERO
 Piero = base("Piero", 100, 20)
 JefeFinal = base ("JefeFinal",100,10)
 
