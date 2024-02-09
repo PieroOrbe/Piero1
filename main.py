@@ -1,6 +1,7 @@
 import base
 #ACA ESTUVO EL OTRO PIERO
 #prueba 2 de edit pc
+#prueba 3 de edit desde laptop
 Piero = base("Piero", 100, 20)
 JefeFinal = base ("JefeFinal",100,10)
 
