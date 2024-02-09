@@ -1,5 +1,6 @@
 from guerrero import *
 print("HOLABOLAsHOLAS")
+#HOLIBOLI
 Piero = base("Piero", 100, 20)
 JefeFinal = base ("JefeFinal",100,10)
 
